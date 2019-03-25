@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "bech32": "^1.1.3",
-    "bitcoinjs-lib": "git+https://github.com/vittoj/bitcoinjs-lib#v3.3.3",
+    "bitcoinjs-lib": "git+https://github.com/vittoj/bitcoinjs-lib#v3.3.4",
     "bchaddrjs": "^0.3.2",
     "cors": "^2.8.5",
     "dotenv": "^4.0.0",
