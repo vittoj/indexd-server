@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
-    "indexd": "git+https://github.com/vittoj/indexd#v0.9.0",
+    "indexd": "git+https://github.com/vittoj/indexd#v0.9.1",
     "leveldown": "^4.0.1",
     "qup": "^1.2.1",
     "run-parallel": "^1.1.6",
